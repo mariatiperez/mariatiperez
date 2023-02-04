@@ -6,7 +6,7 @@
 
 👩🏽‍🎨 &nbsp;My name is **Maria Tirado**. \
 🎹 &nbsp;I love music videos and reading.\
-📄 &nbsp;&nbsp;Check my [**CV**](https://drive.google.com/file/d/1GrXQMoY-F5leVNc6d4hknRNVpyQUlba_/view?usp=sharing) for more info about me! \
+📄 &nbsp;&nbsp;Check my [**CV**](https://drive.google.com/file/d/14xiLDpEYf4N4OHihdc2EIP0iutce1KaQ/view?usp=sharing) for more info about me! \
 💡 &nbsp;&nbsp;If you've got any ideas or recommendations let me know!
 <p align="center">
 <a href="https://linkedin.com/in/maria-tirado-perez"><img src="https://img.shields.io/badge/-Maria%20Tirado%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
