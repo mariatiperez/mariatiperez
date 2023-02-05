@@ -5,13 +5,12 @@
 <img alt="Night Coding" width="320em" src="https://media.giphy.com/media/YPhs6YoPXEJgFxERoG/giphy.gif" align="right"/>
 
 👩🏽‍🎨 &nbsp;My name is **Maria Tirado**. \
-🎹 &nbsp;I love music videos and reading.\
-📄 &nbsp;&nbsp;Check my [**CV**](https://drive.google.com/file/d/1yCmkd4f5scniuea36Fph5ooqrCMdk6Dq/view?usp=share_link) for more info about me! \
-💡 &nbsp;&nbsp;If you've got any ideas or recommendations let me know!
+📄 &nbsp;I'm a Computer Science Engineer with 4+ years of experience in front-end web development, a reliable and efficient individual with a can-do attitude and a passion for finding solutions to challenging problems.\
+🎹 &nbsp;I love music videos, reading and learning new things.\
+💡 &nbsp;&nbsp;I'm always open for a chat, feel free to reach out!
 <p align="center">
 <a href="https://linkedin.com/in/maria-tirado-perez"><img src="https://img.shields.io/badge/-Maria%20Tirado%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:maria.tiradope@gmail.com"><img src="https://img.shields.io/badge/-maria.tiradope@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mariatiperez"><img src="https://img.shields.io/badge/-@mariatiperez_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
