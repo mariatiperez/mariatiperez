@@ -5,7 +5,7 @@
 <img alt="Night Coding" width="320em" src="https://media.giphy.com/media/YPhs6YoPXEJgFxERoG/giphy.gif" align="right"/>
 
 👩🏽‍🎨 &nbsp;My name is **Maria Tirado**. \
-📄 &nbsp;I'm a Computer Science Engineer with 4+ years of experience in front-end web development, a reliable and efficient individual with a can-do attitude and a passion for finding solutions to challenging problems.\
+📄 &nbsp;I'm a Computer Science Engineer with 4+ years of experience in front-end web development, a reliable and efficient gal with a can-do attitude and a passion for coding and challenges.\
 🎹 &nbsp;I love music videos, reading and learning new things.\
 💡 &nbsp;&nbsp;I'm always open for a chat, feel free to reach out!
 <p align="center">
